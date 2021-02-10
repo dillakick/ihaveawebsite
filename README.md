@@ -13,5 +13,5 @@ And *possibly* [ngrok](https://ngrok.io).
 3. Run dom.py first, since it's the website generator.
 4. Profit.
 
-* If you wanna run it on Ngrok or something, you just have to modify d.py and then run it before dom.py. *
+*If you wanna run it on Ngrok or something, you just have to modify d.py and then run it before dom.py.*
 
